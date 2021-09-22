@@ -1,6 +1,6 @@
 ### Hi there, I'm PrakashMewari 👋
 
-[git](https://github.com/DPrakashMewari)
+[GitHub](https://github.com/DPrakashMewari)
 
 
 ## I'm a Data Analyst Machine Learning,Deep Learning Enthusiast!!
