@@ -6,7 +6,7 @@
 ## I'm a Data Analyst Machine Learning,Deep Learning Enthusiast!!
 
 - 🌱 I’m currently learning everything related to my Interest
-- 🥅 2021 Goals: Made Some Deep Learning Projects with Mlops Pipeline 
+- 🥅 2022 Goals: Made Some Deep Learning Projects with Mlops Pipeline 
 - ⚡ Fun fact: I love to sing and play Video Games 
 
 ### Connect with me:
