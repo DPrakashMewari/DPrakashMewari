@@ -3,7 +3,7 @@
 [GitHub](https://github.com/DPrakashMewari)
 
 
-## I'm a Data Analyst Machine Learning,Deep Learning Enthusiast!!
+## I'm a Python Developer and Machine Learning,Deep Learning Enthusiast!!
 
 - 🌱 I’m currently learning everything related to my Interest
 - 🥅 2023 Goals: Made Some Deep Learning Projects with Mlops Pipeline 
