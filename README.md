@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything related to my Interest
 - 🥅 2023 Goals: Made Some Deep Learning Projects with Mlops Pipeline 
-- ⚡ Fun fact: I love to sing and play Video Games 
+- ⚡ Fun fact: I love to Draw Sketches and play Video Games 
 
 ### Connect with me:
 
