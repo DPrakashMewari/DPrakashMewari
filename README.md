@@ -6,8 +6,8 @@
 ## I'm a Python Developer and Machine Learning,Deep Learning Enthusiast!!
 
 - 🌱 I’m currently learning everything related to my Interest
-- 🥅 2023 Goals: Deep Learning Projects Using Mlops Pipeline, Airflow .
-- :golf: : To Become a Certified AI Engineer  
+- 🥅 2023 Goals: Deep Learning Projects Using Mlops Pipeline, Airflow
+- :golf: To Become a Certified AI Engineer  
 
 ### Connect with me:
 
