@@ -6,8 +6,8 @@
 ## I'm a Python Developer and Machine Learning,Deep Learning Enthusiast!!
 
 - 🌱 I’m currently learning everything related to my Interest
-- 🥅 2024 Goals: DP Microsoft and Embedded Techno Project 
-- :golf: To Become a Certified AI Engineer  
+- 🥅 2025 Goals: DP Microsoft and Embedded Techno Project 
+- :golf: To Become a AI Engineer  
 
 ### Connect with me:
 
