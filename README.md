@@ -1,6 +1,6 @@
 ### Hi there, I'm PrakashMewari 👋
 
-[GitHub](https://github.com/DPrakashMewari)
+[GitHub]([https://dprakashmewari.github.io/DPrakashMewari.github.io-/])
 
 
 ## I'm a Python Developer and Machine Learning,Deep Learning Enthusiast!!
